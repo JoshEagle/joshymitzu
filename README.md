@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Josh</h1>
+<h2 align="left">Hi 👋, I'm Josh</h2>
 <h3 align="left">an aspiring data scientist with a political background</h3>
 
 - 🔭 I’m currently working on an **MP Rebellion Predictor**
